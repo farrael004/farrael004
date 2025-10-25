@@ -11,7 +11,7 @@ A couple other projects I'd like to showcase:
 1. [Image deduplication](https://github.com/farrael004/image-deduplication): An open-source python library available on [PyPi](https://pypi.org/project/image-deduplication/) for robust similarity clustering.
 2. [Quest](https://github.com/farrael004/Quest): A bit outdated but still a nice way of showing some of my creativity. I created what is essentially a complete RAG system (Something that didn't exist at the time) when people thought the only way to teach LLMs new information was by fine-tunning them.
 
-[![personal website](https://img.shields.io/badge/My_Website-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-moraes-49407b1ba/)
+[![personal website](https://img.shields.io/badge/My_Website-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://rafaelmoraes.work/)
 
 [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/rafael-moraes-49407b1ba/)
 &nbsp;
